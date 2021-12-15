@@ -1,0 +1,2 @@
+# DSCoin
+Cryptocurrency project.
